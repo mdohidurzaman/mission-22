@@ -61,15 +61,15 @@ a {
 .card-img {
   width: 100px;
 }
-#card-lightblue {
+#card-skycolor {
   background-color: #edf5f6;
   box-shadow: 10px 10px 40px lightgray;
 }
-#card-light2 {
+#card-barlepink {
   background-color: #ffeeee;
   box-shadow: 10px 10px 40px lightgray;
 }
-#card-light3 {
+#card-cream {
   background-color: #fff4d6;
   box-shadow: 10px 10px 40px lightgray;
 }
