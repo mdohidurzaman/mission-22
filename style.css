@@ -6,13 +6,17 @@ body {
 
 h1 {
   font-size: 50px;
+  margin-top: 120px;
+}
+h2 {
+  font-size: 35px;
 }
 span {
   color: #ffad5a;
 }
 .misstion-22__border-left {
   border-left: 7px solid;
-  border-image: linear-gradient(#ff5959, #ffad5a);
+  border-image: linear-gradient(#ffad5a, #ff5959);
   border-image-slice: 1;
   padding-left: 10px;
 }
@@ -27,6 +31,7 @@ span {
 }
 .img-right {
   width: 400px;
+  margin-top: 50px;
   display: block;
   margin-left: 35%;
 }
@@ -50,7 +55,7 @@ a {
   display: flex;
   margin-left: 7%;
   margin-right: 7%;
-  margin-bottom: 100px;
+  margin-bottom: 70px;
 }
 .my-mission-item {
   width: 32%;
@@ -65,7 +70,7 @@ a {
   background-color: #edf5f6;
   box-shadow: 10px 10px 40px lightgray;
 }
-#card-barlepink {
+#card-barelypink {
   background-color: #ffeeee;
   box-shadow: 10px 10px 40px lightgray;
 }
@@ -75,6 +80,7 @@ a {
 }
 .img-left {
   width: 400px;
+  margin-top: 50px;
   display: block;
   margin-right: 35%;
 }
@@ -93,6 +99,7 @@ a {
 .single-item {
   width: 32%;
   text-align: center;
+  margin-top: 40px;
 }
 footer {
   min-height: 70px;
@@ -110,5 +117,6 @@ footer {
 }
 .footer-text {
   color: #ffffff;
+  font-size: 14px;
   padding-bottom: 30px;
 }
