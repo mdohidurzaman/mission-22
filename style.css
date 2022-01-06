@@ -18,14 +18,19 @@ span {
   display: flex;
   margin-left: 10%;
   margin-right: 10%;
+  margin-bottom: 50px;
 }
 .half-width {
   width: 50%;
 }
-.half-width img {
-  width: 350px;
+.img-right {
+  width: 400px;
   display: block;
-  margin: 0 auto;
+  margin-left: 35%;
+}
+a {
+  display: inline-block;
+  margin: 20px 0px;
 }
 .anchor-link {
   background-color: #ff5959;
@@ -43,6 +48,7 @@ span {
   display: flex;
   margin-left: 7%;
   margin-right: 7%;
+  margin-bottom: 100px;
 }
 .my-mission-item {
   width: 32%;
@@ -64,4 +70,9 @@ span {
 #card-light3 {
   background-color: #fff4d6;
   box-shadow: 10px 10px 40px lightgray;
+}
+.img-left {
+  width: 400px;
+  display: block;
+  margin-right: 35%;
 }
